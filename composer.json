@@ -25,7 +25,7 @@
         "symfony/security-bundle": ">=2.2",
         "symfony/security-acl": "^3.0",
         "symfony/expression-language": ">=2.4",
-        "doctrine/doctrine-bundle": "~1.2",
+        "doctrine/doctrine-bundle": "~1.2|~2.0",
         "doctrine/common": "~2.2",
         "doctrine/dbal": "~2.2"
     },
